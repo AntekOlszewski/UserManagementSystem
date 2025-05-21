@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import Users from './components/Users.vue'
-import TheWelcome from './components/TheWelcome.vue'
 </script>
 
 <template>

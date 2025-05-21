@@ -9,10 +9,10 @@ dotnet run
 ## 2.Frontend
 
 cd UserManagementSystem/UserManagementSystem.Client
-npm install       # lub: yarn install
-npm run serve     # lub: yarn serve
+npm install
+npm run
 
-Frontend uruchmi siê pod adresem https://localhost:56031/
+Frontend uruchmi siÄ™ pod adresem https://localhost:56031/
 
 ## 3.Testy jednostkowe
 
